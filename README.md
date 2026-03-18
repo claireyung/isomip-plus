@@ -1,6 +1,8 @@
 # ISOMIP+ Collaborative Analysis and Writing Project
 
-Ten different modelling groups submitted results to the ISOMIP+ model intercomparison project, using the [Asay-Davis et al. (2016) protocol](https://gmd.copernicus.org/articles/9/2471/2016/). In this collaborative repository, we have generated analysis figures to compare the models. The associated study "Results of the second Ice Shelf–Ocean Model Intercomparison Project (ISOMIP+)" is in preparation.
+Ten different modelling groups submitted results to the ISOMIP+ model intercomparison project, using the [Asay-Davis et al. (2016) protocol](https://gmd.copernicus.org/articles/9/2471/2016/). In this collaborative repository, we have generated analysis figures to compare the models. The associated study "Results of the second Ice Shelf–Ocean Model Intercomparison Project (ISOMIP+)" manuscript is in review:
+
+Yung, C. K., Asay-Davis, X. S., Adcroft, A., Bull, C. Y. S., De Rydt, J., Dinniman, M. S., Galton-Fenzi, B. K., Goldberg, D., Gwyther, D. E., Hallberg, R., Harrison, M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., Jourdain, N. C., Kusahara, K., Marques, G., Mathiot, P., Menemenlis, D., Morrison, A. K., Nakayama, Y., Sergienko, O., Smith, R. S., Stern, A., Timmermann, R., and Zhou, Q.: Results of the second Ice Shelf – Ocean Model Intercomparison Project (ISOMIP+), EGUsphere [preprint], [DOI:10.5194/egusphere-2025-1942](https://doi.org/10.5194/egusphere-2025-1942), 2025.
 
 
 - [`figures`](https://github.com/misomip/isomip-plus/tree/main/figures) contains only the notebooks used to compile figures presented in the ISOMIP+ model intercomparison paper submission
